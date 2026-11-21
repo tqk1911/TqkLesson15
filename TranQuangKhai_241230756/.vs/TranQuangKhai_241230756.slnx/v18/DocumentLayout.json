@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\views\\shared\\tranquangkhai_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\views\\shared\\tranquangkhai_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\views\\taisan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\views\\taisan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\controllers\\taisancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\controllers\\taisancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\models\\taisanmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\models\\taisanmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\lapTrinhWeb\\demau\\DeThi_Mau_2026SV_QLTS\\Template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\views\\shared\\tranquangkhai_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\views\\shared\\tranquangkhai_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\views\\shared\\tranquangkhai_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\views\\shared\\tranquangkhai_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|d:\\laptrinhweb\\lesson15\\tranquangkhai_241230756\\tranquangkhai_241230756\\views\\shared\\tranquangkhai_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BA5F67-77F0-495B-A78C-253758194707}|TranQuangKhai_241230756\\TranQuangKhai_241230756.csproj|solutionrelative:tranquangkhai_241230756\\views\\shared\\tranquangkhai_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TranQuangKhai_241230756\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T04:03:40.291Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\TaiSan\\Create.cshtml",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\Views\\TaiSan\\Create.cshtml",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\TaiSan\\Create.cshtml",
+              "RelativeToolTip": "TranQuangKhai_241230756\\Views\\TaiSan\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T04:03:20.781Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Program.cs",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\Program.cs",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Program.cs",
+              "RelativeToolTip": "TranQuangKhai_241230756\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T04:00:13.714Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiSanController.cs",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Controllers\\TaiSanController.cs",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\Controllers\\TaiSanController.cs",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Controllers\\TaiSanController.cs",
+              "RelativeToolTip": "TranQuangKhai_241230756\\Controllers\\TaiSanController.cs",
+              "ViewState": "AgIAAAYAAACAMjMzMzMbwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T03:54:58.3Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaiSanMetadata.cs",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Models\\TaiSanMetadata.cs",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\Models\\TaiSanMetadata.cs",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Models\\TaiSanMetadata.cs",
+              "RelativeToolTip": "TranQuangKhai_241230756\\Models\\TaiSanMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T03:48:51.586Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TranQuangKhai_241230756\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T03:44:10.631Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TranQuangKhai_Layout.cshtml",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Layout.cshtml",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Layout.cshtml",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Layout.cshtml",
+              "RelativeToolTip": "TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T03:22:06.201Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TranQuangKhai_241230756\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T03:42:29.057Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "TranQuangKhai_241230756\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-21T03:38:42.888Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TranQuangKhai_MainContent.cshtml",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_MainContent.cshtml",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_MainContent.cshtml",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_MainContent.cshtml",
+              "RelativeToolTip": "TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_MainContent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T03:22:59.925Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TranQuangKhai_Footer.cshtml",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Footer.cshtml",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Footer.cshtml",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Footer.cshtml",
+              "RelativeToolTip": "TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T03:22:38.726Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TranQuangKhai_Header.cshtml",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Header.cshtml",
+              "RelativeDocumentMoniker": "TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Header.cshtml",
+              "ToolTip": "D:\\lapTrinhWeb\\Lesson15\\TranQuangKhai_241230756\\TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Header.cshtml",
+              "RelativeToolTip": "TranQuangKhai_241230756\\Views\\Shared\\TranQuangKhai_Header.cshtml",
+              "ViewState": "AgIAAAMAAABAMjMzMzMrwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T03:22:21.821Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\lapTrinhWeb\\demau\\DeThi_Mau_2026SV_QLTS\\Template\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\demau\\DeThi_Mau_2026SV_QLTS\\Template\\index.html",
+              "ToolTip": "D:\\lapTrinhWeb\\demau\\DeThi_Mau_2026SV_QLTS\\Template\\index.html",
+              "RelativeToolTip": "..\\..\\demau\\DeThi_Mau_2026SV_QLTS\\Template\\index.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-21T03:15:58.68Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
