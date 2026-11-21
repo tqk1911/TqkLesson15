@@ -1,0 +1,28 @@
+﻿@model TranQuangKhai_241230756_De02.Models.TaiSan
+@{
+    ViewData["Title"] = "Sửa tài sản";
+}
+<h3>Sửa Thông Tin Tài Sản</h3>
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="MaTs" />
+    <div>
+        <label asp-for="MaLoai"></label><br />
+        <select asp-for="MaLoai" asp-items="(SelectList)ViewBag.DsLoai"></select>
+    </div>
+    <div>
+        <label asp-for="TenTs"></label><br />
+        <input asp-for="TenTs" />
+        <span asp-validation-for="TenTs" style="color:red"></span>
+    </div>
+    <div>
+        <label asp-for="NguyenGia"></label><br />
+        <input asp-for="NguyenGia" />
+        <span asp-validation-for="NguyenGia" style="color:red"></span>
+    </div>
+    <div>
+        <label asp-for="Anh"></label><br />
+        <input asp-for="Anh" />
+        <span asp-validation-for="Anh" style="color:red"></span>
+    </div>
+    <input type="submit" value="Save" />
+</form>
